@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    color: rgb(58, 58, 58);
+    font-size: larger;
+}
+.name {
+    color: rgb(213, 78, 78);
+    font-style: italic;
+    padding-right: 15px;
+}
+.button {
+    width: 80px;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    background-color: rgb(213, 78, 78);
+    border: solid 1px rgb(58, 58, 58);
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: auto;
+    margin-right: 0px;
+}
+.button:hover,
+.button:focus {
+    cursor: pointer;
+    background-color: rgb(255, 212, 212);
+    color: rgb(58, 58, 58);
+}

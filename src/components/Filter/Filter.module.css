@@ -1,0 +1,18 @@
+.input {
+    width: 400px;
+    margin: 5px 0;
+    padding: 5px;
+    border: solid 1px rgb(58, 58, 58);
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: rgb(255, 212, 212);
+}
+.label {
+    width: 400px;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(58, 58, 58);
+}
